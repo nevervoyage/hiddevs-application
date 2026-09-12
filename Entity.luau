@@ -1,3 +1,4 @@
+--Connected Discord-GitHub
 -- Get Roblox services.
 local ServerStorage = game:GetService("ServerStorage")
 local Players = game:GetService("Players")
